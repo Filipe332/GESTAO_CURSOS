@@ -1,0 +1,59 @@
+/* Estilo geral para o formulário */
+form {
+    background-color: #f2f2f2;
+    padding: 20px;
+    border-radius: 10px;
+    max-width: 400px;
+    margin: 0 auto;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+/* Estilo para os campos de entrada */
+input[type="text"],
+input[type="email"],
+input[type="number"] {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-sizing: border-box;
+    font-size: 16px;
+}
+
+/* Estilo para os botões */
+input[type="submit"] {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    width: 100%;
+    transition: background-color 0.3s;
+}
+
+/* Efeito hover no botão */
+input[type="submit"]:hover {
+    background-color: #45a049;
+}
+
+/* Estilo para os rótulos */
+label {
+    font-size: 18px;
+    color: #333;
+}
+
+/* Centralizar o título e adicionar margem */
+h2 {
+    text-align: center;
+    color: #333;
+}
+
+/* Adiciona um pouco de espaçamento nas margens */
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    background-color: #f9f9f9;
+}

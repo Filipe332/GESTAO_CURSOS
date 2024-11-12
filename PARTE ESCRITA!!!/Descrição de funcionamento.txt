@@ -1,0 +1,16 @@
+Este sistema será utilizado para gerir um cadastro de Cursos, Alunos e Professores, permitindo registrar os cursos, os professores que lecionam cada curso e os alunos matriculados. O sistema também permitirá gerar relatórios sobre os dados cadastrados.
+
+Funcionalidades principais:
+
+*Cadastro de Alunos: O sistema permitirá registrar informações básicas dos alunos, como nome, e-mail e curso em que estão matriculados.
+
+*Cadastro de Cursos: O sistema permitirá cadastrar novos cursos, associando um professor responsável a cada curso.
+
+*Cadastro de Professores: O sistema permitirá cadastrar professores, vinculando-os aos cursos que lecionam.
+
+*Matrícula de Alunos: Alunos podem se matricular em um ou mais cursos.
+
+*Relatórios: O sistema terá relatórios que permitirão visualizar:
+-Lista de alunos cadastrados por curso;
+-Cursos disponíveis com seus respectivos professores;
+-Alunos cadastrados no sistema.

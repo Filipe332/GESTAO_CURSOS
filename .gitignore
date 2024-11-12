@@ -1,0 +1,15 @@
+
+### 4. Criar o Arquivo `.gitignore`
+
+O `.gitignore` será configurado para ignorar arquivos desnecessários. Exemplo:
+
+```plaintext
+# Ignorar arquivos do sistema
+*.log
+*.tmp
+
+# Ignorar IDEs e ambientes de desenvolvimento
+.vscode/
+.idea/
+*.bak
+*.swp
